@@ -5,8 +5,8 @@ const Navbar = () => {
   return (
     <div className="navbar px-6 bg-base-100">
       <div className="flex-1">
-        <CustomLink href="/" className="text-xl font-extrabold tracking-widest">
-          T2 Template
+        <CustomLink href="/" className="text-xl font-extrabold tracking-wider">
+          FM Playground
         </CustomLink>
       </div>
       <div className="flex-none">
