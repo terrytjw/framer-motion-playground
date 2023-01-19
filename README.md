@@ -1,6 +1,4 @@
-# A Typescript + Tailwind Next.js template
-
-A template with all the libraries and configurations I love and use to build a fullstack app in <u>minutes<u/>.
+# A Framer Motion playground
 
 ## Getting Started
 
